@@ -1,0 +1,24 @@
+@import url("../css/fonts/fonts.css");
+@font-face {
+
+font-family: 'FontName';
+
+font-style: normal;
+
+src: url('../fonts/font-name.eot');
+
+src: url('../fonts/font-name.eot?#iefix') format('embedded-opentype'),
+
+local('FontName'),
+
+local('FontName'),
+
+url('../fonts/font-name.woff2') format('woff2'),
+
+url('../fonts/font-name.woff') format('woff'),
+
+url('../fonts/font-name.ttf') format('truetype'),
+
+url('../fonts/font-name.svg') format('svg');
+
+}
